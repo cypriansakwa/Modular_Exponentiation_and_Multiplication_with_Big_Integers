@@ -1,0 +1,8 @@
+[package]
+name = "Mod_Multiplication_Big_Bases"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+num = "0.4"
+num-bigint = "0.4"
